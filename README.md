@@ -152,3 +152,13 @@ Steam is a trademark of Valve Corporation.
 Bug reports, feature requests, and pull requests are always welcome.
 
 If this project helped you, consider giving it a ⭐ on GitHub. It helps more people discover the project and supports future development.
+
+---
+
+## 🔍 Keywords
+
+Steam Repair Tool, Steam Client Repair, Steam Fix, Steam Troubleshooter,
+Steam Won't Open, Steam Not Launching, Steam Download Issues,
+Steam Cache Repair, Steam Client Service, Windows Gaming,
+Steam Library Repair, Steam Diagnostic Tool, Windows 10,
+Windows 11, PC Gaming, Steam Error Fix.
