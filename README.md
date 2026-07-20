@@ -114,6 +114,21 @@ That's it.
 
 ---
 
+## ❓ Common Problems This Tool Can Fix
+
+- Steam won't open
+- Steam is stuck updating
+- Steam download errors
+- Steam missing games
+- Blank Steam Store
+- Steam Client Service errors
+- Corrupted Steam cache
+- Steam library problems
+- Steam crashes on startup
+- Steam won't connect
+
+---
+
 ## 🎯 Project Goals
 
 Steam Repair Tool was created with one simple goal:
