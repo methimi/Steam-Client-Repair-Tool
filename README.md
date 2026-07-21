@@ -93,24 +93,15 @@ The tool explains every issue in plain English.
 
 ---
 
-## 📋 Requirements
+## 📥 Download & Installation
 
+Download [**SteamRepairTool.zip**](https://github.com/methimi/Steam-Client-Repair-Tool/releases/download/Steam_Repair_Tool_v1.0.0/SteamRepairTool.zip), extract it, and run **SteamRepairTool.exe** as Administrator.
+
+Supported Operating Systems
 * Windows 10
 * Windows 11
-* Administrator privileges
-* Python 3.8+ (or compiled executable)
 
----
-
-## ▶️ How to Use
-
-1. Run the program as Administrator.
-2. Wait while the diagnosis completes.
-3. Review the detected issues.
-4. Confirm the repairs you want.
-5. Let the tool verify everything automatically.
-
-That's it.
+Administrator privileges are recommended.
 
 ---
 
