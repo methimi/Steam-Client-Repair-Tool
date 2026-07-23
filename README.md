@@ -95,7 +95,7 @@ The tool explains every issue in plain English.
 
 ## 📥 Download & Installation
 
-Download [**SteamRepairTool.zip**](https://github.com/methimi/Steam-Client-Repair-Tool/releases/download/Steam_Repair_Tool_v1.0.0/SteamRepairTool.zip), extract it, and run **SteamRepairTool.exe** as Administrator.
+Download [**StmRepairFix.zip**](https://github.com/methimi/Steam-Client-Repair-Tool/releases/download/Steam_Repair_Tool_v1.0.0/StmRepairFix.zip), extract it, and run **StmRepairFix.exe** as Administrator.
 
 Supported Operating Systems
 * Windows 10
